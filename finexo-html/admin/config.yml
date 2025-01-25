@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: your-username/my-netlify-site
+  repo: OCTAJASA/octa-jasa-web
   branch: main
 
 media_folder: "images/uploads"
